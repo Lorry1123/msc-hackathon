@@ -18,6 +18,7 @@ h6 {
     min-width:-moz-min-content;
 }
 
+.button-margin-buttom,
 .items-margin-buttom {
     margin-bottom: 20px !important;
 }
